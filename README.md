@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dipen006&label=Profile+Views&style=for-the-badge&color=7A3EF0" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rikkkdipen&label=Profile+Views&style=for-the-badge&color=7A3EF0" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-DevOps%20%7C%20Kubernetes%20%7C%20Cloud-0A66C2?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Learning%20in-Public-16a34a?style=for-the-badge" alt="Learning in Public" />
   <img src="https://img.shields.io/badge/Goal-Platform%20Engineer-f97316?style=for-the-badge" alt="Goal" />
@@ -137,8 +137,8 @@ DevOps / Cloud / Platform Engineer
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dipen006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipen006&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rikkkdipen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikkkdipen&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -146,7 +146,7 @@ DevOps / Cloud / Platform Engineer
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dipen006/dipen006/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/rikkkdipen/rikkkdipen/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
