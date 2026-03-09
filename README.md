@@ -1,15 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Dipen&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=DevOps%20%E2%80%A2%20Kubernetes%20%E2%80%A2%20Cloud%20%E2%80%A2%20Backend&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B132B,50:1C2541,100:3A506B&text=Dipen&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=DevOps%20%E2%80%A2%20Kubernetes%20%E2%80%A2%20Cloud%20%E2%80%A2%20Backend&descAlignY=55&animation=fadeIn" />
 
 <h1 align="center">Hi 👋, I'm Dipen</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=DevOps+Enthusiast;Kubernetes+Learner;Cloud+%26+Backend+Builder;Automating+workflows+and+shipping+reliable+systems;Learning+in+public+through+projects+and+notes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=DevOps+Enthusiast;Kubernetes+Learner;Cloud+%26+Backend+Builder;Automating+workflows+and+building+reliable+systems;Learning+in+public+through+projects+and+notes" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rikkkdipen&label=Profile+Views&style=for-the-badge&color=7A3EF0" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-DevOps%20%7C%20Kubernetes%20%7C%20Cloud-0A66C2?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Learning%20in-Public-16a34a?style=for-the-badge" alt="Learning in Public" />
+  <img src="https://img.shields.io/badge/Focus-DevOps%20%7C%20Kubernetes%20%7C%20Cloud-2563eb?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Learning%20In-Public-16a34a?style=for-the-badge" alt="Learning in Public" />
   <img src="https://img.shields.io/badge/Goal-Platform%20Engineer-f97316?style=for-the-badge" alt="Goal" />
 </p>
 
@@ -26,20 +26,12 @@
 ## 👨‍💻 Recruiter Snapshot
 
 ```bash
-whoami
-Dipen
-
-role
-DevOps Enthusiast • Cloud & Backend Builder
-
-strengths
-Containers • Linux • Automation • Monitoring • Backend Systems
-
-currently_working_on
-CKA Prep • Kubernetes • Docker • AWS • CI/CD • Observability
-
-career_direction
-DevOps / Cloud / Platform Engineer
+name: Dipen
+role: DevOps Enthusiast / Cloud & Backend Builder
+currently_learning: Kubernetes, Docker, AWS, Linux, CI/CD, Observability
+primary_languages: Python, Go, JavaScript
+interests: Automation, Infrastructure, Monitoring, Scalability, Backend Systems
+career_goal: DevOps / Cloud / Platform Engineer
 ```
 
 ---
@@ -47,10 +39,10 @@ DevOps / Cloud / Platform Engineer
 ## 🚀 About Me
 
 - 🌱 Preparing seriously for **CKA**
-- ⚙️ Passionate about **DevOps, Cloud, Infrastructure, Automation, Monitoring, and Scalability**
-- 💻 Building with **Python, Go, JavaScript, Node.js, SQL, MongoDB**
-- 📚 I enjoy documenting what I learn through **practical projects and notes**
-- 🔍 I love understanding systems deeply and improving reliability step by step
+- ⚙️ Passionate about **DevOps, Cloud, Automation, Infrastructure, Monitoring, and Scalability**
+- 💻 Building with **Python, Go, JavaScript, Node.js, SQL, and MongoDB**
+- 📚 I enjoy documenting what I learn through **practical notes and real projects**
+- 🔍 I like understanding systems deeply and improving them step by step
 - 🎯 Working toward becoming a strong **DevOps / Cloud / Platform Engineer**
 
 ---
@@ -134,19 +126,25 @@ DevOps / Cloud / Platform Engineer
 
 ---
 
-## 📊 GitHub Analytics
+## 📌 What I'm Working On
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rikkkdipen&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikkkdipen&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- ☸️ Strengthening Kubernetes fundamentals for **CKA**
+- 🐳 Improving hands-on knowledge of **Docker and containerized workflows**
+- ☁️ Building stronger understanding of **AWS and cloud infrastructure**
+- 📈 Exploring **Prometheus + Grafana** for monitoring and observability
+- ⚙️ Learning better **CI/CD and automation practices**
+- 🧠 Building practical projects to turn knowledge into real skills
 
 ---
 
-## 🐍 Contribution Snake
+## 💡 Engineering Mindset
+
+```bash
+build -> learn -> improve -> automate -> scale
+```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rikkkdipen/rikkkdipen/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://img.shields.io/badge/Mindset-Build%20%E2%80%A2%20Break%20%E2%80%A2%20Learn%20%E2%80%A2%20Improve-0f766e?style=for-the-badge" />
 </p>
 
 ---
@@ -184,4 +182,4 @@ DevOps / Cloud / Platform Engineer
   If you find my work useful, consider giving my repositories a ⭐
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B132B,50:1C2541,100:3A506B" />
